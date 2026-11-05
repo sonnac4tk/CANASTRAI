@@ -6,7 +6,7 @@ Jogo de canastra para Android: você contra robôs com IA, para 2 ou 4 jogadores
 
 ## Baixar
 
-👉 **[Baixar o Canastra (versão mais recente)](https://github.com/sonnac4tk/canastrai/raw/main/canastra.apk)**
+👉 **[Baixar o Canastra (versão mais recente)](https://github.com/sonnac4tk/CANASTRAI/raw/main/canastra.apk)**
 
 1. Abra o link acima no celular.
 2. Toque no arquivo baixado e permita a instalação quando o Android pedir.
