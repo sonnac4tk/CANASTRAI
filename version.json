@@ -1,0 +1,6 @@
+{
+  "versionCode": 10,
+  "versionName": "0.3.10",
+  "apkUrl": "https://raw.githubusercontent.com/sonnac4tk/canastrai/main/canastra.apk?v=10",
+  "notes": "Corrige travamento ao usar carta idêntica à do lixo."
+}
