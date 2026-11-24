@@ -1,0 +1,6 @@
+{
+  "versionCode": 63,
+  "versionName": "0.3.63",
+  "apkUrl": "https://raw.githubusercontent.com/sonnac4tk/CANASTRAI/main/canastra.apk?v=63",
+  "notes": "Partidas salvas: se sair sem querer ou o app fechar, aparece o botão ⏯ CONTINUAR PARTIDA (e o selo CONTINUAR no menu). Os jogos mais jogados vão para o começo do menu e cada jogo lembra a última configuração."
+}
